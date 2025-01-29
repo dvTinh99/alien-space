@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+#app {
+    display: flex;
+    justify-content: center;
+}
