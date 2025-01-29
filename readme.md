@@ -7,6 +7,11 @@
 
 ``npm run server``
 
-#Demo
+# Play
+use arrow to move space ship \
+use space to shoot
+
+
+# Demo
 
 ![alt text](alien-space.png)
